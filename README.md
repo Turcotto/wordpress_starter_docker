@@ -2,11 +2,26 @@
 
 A starter for any wordpress project that I use
 
-## Description
-
-Ce dépot de code contient le theme du site web lamareedesmots.org
-
 ## Installation
+
+After forking the repo, you will need make some change :
+
+### Template name
+
+Change the placeholder name of the template at some places :
+
+- /themes/**websitename**
+- /themes/**websitename**/style.css:1
+
+### Google tab manager
+
+At the file header.php:43-53, you will need to put the correct value of your website
+
+### This README
+
+Of course, you will need to change this README
+
+### Start development
 
 Pour débuter le développement local, démarrer le container docker avec la commande suivante :
 
@@ -15,6 +30,8 @@ docker-compose up -d
 ```
 
 Connectez-vous au url suivant : localhost:8000 et terminez la configuration wordpress.
+
+*p.s. some file with be created with the installation of wordpress. You can erase them at your will*
 
 ### Mise en production
 

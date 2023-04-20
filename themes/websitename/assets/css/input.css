@@ -1,20 +1,19 @@
-/*@font-face {*/
-/*    font-family: Lufga;*/
-/*    src: url(../fonts/LufgaRegular.ttf);*/
-/*}*/
+@font-face {
+    font-family: Lufga;
+    src: url(../fonts/CalibriRegular.ttf);
+}
 
 /*@font-face {*/
 /*    font-family: Lufga;*/
 /*    font-weight: bold;*/
-/*    src: url(../fonts/LufgaBold.ttf);*/
+/*    src: url(../fonts/CalibriBold.ttf);*/
 /*}*/
 
-/*@font-face {*/
-/*    font-family: Lufga;*/
-/*    font-weight: 600;*/
-/*    font-style: italic;*/
-/*    src: url(../fonts/LufgaSemiBoldItalic.ttf);*/
-/*}*/
+@font-face {
+    font-family: Lufga;
+    font-style: italic;
+    src: url(../fonts/CalibriItalic.ttf);
+}
 
 
 @tailwind base;
