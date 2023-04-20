@@ -55,11 +55,6 @@ Le container de docker contient l'outil phpmyadmin pour administer la base de do
 
 ## Développement
 
-Pour débuter le développement :
-
-1. Modifier le nom du dossier à la racine du dossier themes
-2. Modifier le nom du themes dans le fichier style.css
-
 ### Librairies utiles
 
 #### Tailwind CSS
